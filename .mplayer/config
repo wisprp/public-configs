@@ -1,0 +1,13 @@
+# Write your default config options here!
+
+zoom="1" 
+
+slang=ru,rus,russian
+subcp = "enca:ru:cp1251"
+
+vo="gl"
+#subcp=CP1251
+#subcp=utf8
+subfont-text-scale=3
+subfont-outline=4
+sub-fuzziness=1
